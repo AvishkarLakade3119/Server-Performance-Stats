@@ -42,4 +42,4 @@ chmod +x DevOps/server-stats.sh
 ./DevOps/server-stats.sh
 
 Project URL
-https://github.com/AvishkarLakade3119/Server-Performance-Stats/tree/main
+https://roadmap.sh/projects/server-stats
