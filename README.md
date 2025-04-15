@@ -32,4 +32,7 @@ chmod +x DevOps/server-stats.sh
 ## Run the Script
 ./DevOps/server-stats.sh
 
+Project URL:
+https://github.com/AvishkarLakade3119/Server-Performance-Stats/tree/main
+
  
